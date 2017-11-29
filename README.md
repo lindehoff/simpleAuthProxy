@@ -1,1 +1,1 @@
-# grafanaProxy
+# simpleAuthProxy
